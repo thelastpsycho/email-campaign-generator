@@ -1,0 +1,4 @@
+# Ignore all Claude skills except anvaya-email-generator
+.claude/skills/*
+!.claude/skills/anvaya-email-generator/
+!.claude/skills/anvaya-email-generator/**
